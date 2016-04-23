@@ -1,0 +1,23 @@
+{
+  "name": "node-async-project",
+  "version": "1.0.0",
+  "description": "Test project for working with async responses",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kickinbahk/node-async-project.git"
+  },
+  "keywords": [
+    "async",
+    "test"
+  ],
+  "author": "Josiah Mory",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kickinbahk/node-async-project/issues"
+  },
+  "homepage": "https://github.com/kickinbahk/node-async-project#readme"
+}
